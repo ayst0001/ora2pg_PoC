@@ -14,6 +14,9 @@
     * Environment variable:
         * export LD_LIBRARY_PATH=/home/<path_to_unzip_location>/instantclient_19_6
         * export ORACLE_HOME=/home/<path_to_unzip_location>/instantclient_19_6
+    * Gsutil tool for staging
+        * https://cloud.google.com/storage/docs/gsutil_install#deb
+
 
 ## Option 1: local installation and expose IP&port to public
 * configure port forwarding on local side, or
